@@ -13,6 +13,8 @@
 		EBF1832F22D3FCF000EC112D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EBF1832D22D3FCF000EC112D /* Main.storyboard */; };
 		EBF1833122D3FCF400EC112D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EBF1833022D3FCF400EC112D /* Assets.xcassets */; };
 		EBF1833422D3FCF400EC112D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EBF1833222D3FCF400EC112D /* LaunchScreen.storyboard */; };
+		EBF1833C22D3FDC700EC112D /* plistViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBF1833B22D3FDC700EC112D /* plistViewController.swift */; };
+		EBF1833E22D402B700EC112D /* studentInfo.plist in Resources */ = {isa = PBXBuildFile; fileRef = EBF1833D22D402B700EC112D /* studentInfo.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		EBF1833022D3FCF400EC112D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EBF1833322D3FCF400EC112D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EBF1833522D3FCF400EC112D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EBF1833B22D3FDC700EC112D /* plistViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = plistViewController.swift; sourceTree = "<group>"; };
+		EBF1833D22D402B700EC112D /* studentInfo.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = studentInfo.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				EBF1833022D3FCF400EC112D /* Assets.xcassets */,
 				EBF1833222D3FCF400EC112D /* LaunchScreen.storyboard */,
 				EBF1833522D3FCF400EC112D /* Info.plist */,
+				EBF1833B22D3FDC700EC112D /* plistViewController.swift */,
+				EBF1833D22D402B700EC112D /* studentInfo.plist */,
 			);
 			path = "day7TabView&PlistExample";
 			sourceTree = "<group>";
@@ -127,6 +133,7 @@
 			files = (
 				EBF1833422D3FCF400EC112D /* LaunchScreen.storyboard in Resources */,
 				EBF1833122D3FCF400EC112D /* Assets.xcassets in Resources */,
+				EBF1833E22D402B700EC112D /* studentInfo.plist in Resources */,
 				EBF1832F22D3FCF000EC112D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -141,6 +148,7 @@
 				EBF1832C22D3FCF000EC112D /* SecondViewController.swift in Sources */,
 				EBF1832822D3FCF000EC112D /* AppDelegate.swift in Sources */,
 				EBF1832A22D3FCF000EC112D /* FirstViewController.swift in Sources */,
+				EBF1833C22D3FDC700EC112D /* plistViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

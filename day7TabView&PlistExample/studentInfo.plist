@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array>
+		<string>red</string>
+		<string>pink</string>
+		<string>white</string>
+		<string>orange</string>
+	</array>
+	<key>students</key>
+	<array>
+		<dict>
+			<key>city</key>
+			<string>surat</string>
+			<key>studentName</key>
+			<string>Karan</string>
+			<key>studentID</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>city</key>
+			<string>Toronto</string>
+			<key>studentName</key>
+			<string>Naina</string>
+			<key>studentID</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>city</key>
+			<string>Mumbai</string>
+			<key>studentName</key>
+			<string>Jazz</string>
+			<key>studentID</key>
+			<integer>3</integer>
+		</dict>
+	</array>
+</dict>
+</plist>
