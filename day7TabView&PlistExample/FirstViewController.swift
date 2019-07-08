@@ -62,6 +62,6 @@ class FirstViewController:UIViewController, UITableViewDelegate, UITableViewData
     }
 
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-        let cell = 
+     
     }
 }
